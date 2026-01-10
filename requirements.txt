@@ -1,0 +1,35 @@
+# ---------- Core API ----------
+fastapi
+uvicorn
+python-multipart
+
+# ---------- Database ----------
+sqlalchemy
+pymysql
+
+# ---------- Data & ML ----------
+numpy
+pandas
+scikit-learn
+xgboost
+shap
+
+# ---------- NLP & LLM ----------
+spacy
+transformers
+datasets
+huggingface_hub
+langchain
+openai
+
+# ---------- OCR & PDF ----------
+pdfplumber
+pymupdf
+pytesseract
+opencv-python
+pillow
+
+# ---------- Utilities ----------
+pyarrow
+multiprocess
+slicer
